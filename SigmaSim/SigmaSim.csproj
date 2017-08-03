@@ -51,6 +51,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Dice.cs" />
+    <Compile Include="Classes\Result.cs" />
+    <Compile Include="Classes\Simulator.cs" />
+    <Compile Include="Classes\Target.cs" />
+    <Compile Include="Classes\Weapon.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
